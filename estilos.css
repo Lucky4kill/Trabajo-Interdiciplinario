@@ -1,0 +1,15 @@
+td{
+    color: rgb(19, 41, 105);
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+a{
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:xx-large;
+    text-align: right;
+}
+a:hover{color: brown;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
